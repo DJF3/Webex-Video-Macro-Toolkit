@@ -45,3 +45,20 @@ OR
 
 Rename the BUTTON text so you know what image it contains. Use short names to make them fit.
 Don't forget to UPLOAD/activate the modified UI. ('arrow up' button top right
+
+# Customize Web Links
+
+1 - Go to the Web panel in the UI editor.
+URLs are configured in button IDs of groupbuttons. These group buttons can be placed anywhere in the UI (doesn't have to be the 'Web' tab)
+
+2 - In the group button config, add the URL
+And after adding the URL, change the name of the groupbutton.
+Can you add more groupbuttons? Yes, as long as the groupbutton widget id starts with "widget_web_"
+
+
+3 - Save & Test
+You can modify the max number of horizontal buttons inside the groupbutton by reducing its width. Then you can add more buttons. So, you can have:
+
+- FROM: 2 rows (min) each with 1 button
+- UP TO: x rows each with 4 buttons
+- example: 3 rows each with 2 buttons horizontally
