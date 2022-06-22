@@ -14,7 +14,7 @@
 |   |   | Open page/search/clear session |
 
 
-# Instrutcions
+# Instructions
 1 - Access: Login to your Video device.
 
 2 - Import Macro  
