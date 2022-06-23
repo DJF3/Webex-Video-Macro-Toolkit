@@ -1,16 +1,15 @@
 # Webex Macro Toolkit
 
-| Settings  | Blurring |   |
-| ------------- | ------------- | ------------- | 
-| Camera Exposure  | Blur Normal  | **BACKGROUNDS** |
-| Pan/tilt  | Blur Depth of field  | Assign virtual backgrounds to one of the 3 User slots | 
-| Self-view on/off+small/fullscr  | Blur monochrome <---great!  | Choose from +/- 150 backgrounds visible here |
-| Speaker-track on/off  | Monochrome <--- great!  | **SENSORS** |
-| Speaker-track diagnostics  | USB-C/HDMI  | Temp/Hum |
-| Webex Assistant on/off  |   | Sound level/Volume | 
-| Proximity on/off  |   | People count/Uptime | 
-|  |   | **WEB** |
-|   |   | Games, news, demo |
+| SETTINGS  | BLURRING | **BACKGROUNDS**  |
+| :------------ | :------------ | :------------- | 
+| Camera Exposure  | Blur Normal  | Get virtual backgrounds |
+| Pan/tilt  | Blur Depth of field  | Choose from 150 backgrounds [here](https://sparkintegration.club/webexbackgrounds/) | 
+| Self-view on/off+small/fullscr  | Blur monochrome <--great!  | &nbsp;&nbsp;&nbsp;&nbsp;**SENSORS** |
+| Speaker-track on/off  | Monochrome <--great!  | Temp/Hum |
+| Speaker-track diagnostics  | USB-C/HDMI  | Sound level/Volume |
+| Webex Assistant on/off  |   | People count/Uptime | 
+| Proximity on/off  |   | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**WEB** | 
+|  |   | Games, news, demo |
 |   |   | Open page/search/clear session |
 
 
